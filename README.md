@@ -58,7 +58,7 @@ L’objectif final est de fournir un modèle performant et interprétable, capab
 
 | Modèle              | F1 Score |
 |---------------------|----------|
-| Random Forest       | 0.75     |
+| Random Forest       | 0.762     |
 | MLP Classifier      | 0.646    |
 | Régression Logistique | 0.640  |
 | Gradient Boosting    | 0.523    |
